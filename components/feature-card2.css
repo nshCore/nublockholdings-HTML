@@ -49,16 +49,10 @@
 .feature-card2-root-class-name {
   background-color: var(--dl-color-custom-accent1);
 }
-.feature-card2-root-class-name1 {
-  background-color: var(--dl-color-custom-accent1);
-}
 .feature-card2-root-class-name2 {
   background-color: var(--dl-color-custom-accent1);
 }
 .feature-card2-root-class-name3 {
-  background-color: var(--dl-color-custom-accent1);
-}
-.feature-card2-root-class-name4 {
   background-color: var(--dl-color-custom-accent1);
 }
 @media(max-width: 767px) {
